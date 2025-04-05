@@ -69,26 +69,25 @@ Bienvenido a **ViajeManager**, la solución integral para planificar, organizar 
 
 ### **Frontend**
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=html" alt="Html" />
+  <img src="https://skillicons.dev/icons?i=css" alt="Css" />
+  <img src="https://skillicons.dev/icons?i=js" alt="Javascript" />
+  <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
+ <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
 </div>
 
 ### **Backend**
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" />
 </div>
 
 ### **DevOps y Cloud**
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" />
+ <img src="https://skillicons.dev/icons?i=git" alt="git" />
 </div>
 
 ## 📥 Instalación
