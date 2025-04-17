@@ -1,0 +1,3 @@
+Crear la seccion de seccion []
+organiazar los elementos []
+agregar los styles []

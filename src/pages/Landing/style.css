@@ -1,2 +1,58 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4%;
+}
 
+.icons-support{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    cursor: pointer;
+}
 
+.menu{
+    cursor: pointer;
+}
+
+.lupa-container{
+    width: 40px;
+    height: 30px;
+    box-shadow: 1px 0px 4px black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.lupa-container img{
+    width: 15px;
+}
+/*
+.header {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;             
+  padding: 10px 20px;
+  background-color: #f9f9f9;       
+}
+
+.menu,
+.logo,
+.icons-support {
+  display: flex;
+  align-items: center;
+}
+
+ 
+.icons-support img {
+  margin-left: 10px; 
+}
+
+ 
+.lupa-container img {
+  margin-right: 10px;
+}
+*/
