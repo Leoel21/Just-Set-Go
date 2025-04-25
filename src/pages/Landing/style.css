@@ -1,6 +1,12 @@
 /* Agrega esto al inicio del archivo */
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+
 .container {
-    width: 60%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -77,5 +83,54 @@ header{
 }
 
 
+footer{
+    width: 90%;
+    margin: 0 auto;
+}
 
-/*   */
+.general-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-section-1{
+    width: 33%;
+    height: 322px;
+}
+
+.footer-section-2{
+    width: 33%;
+    height: 322px;
+    background-color: blue;
+}
+
+.footer-section-3{
+    width: 33%;
+    height: 322px;
+    background-color: blue;
+}
+
+.logo-img-01{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.icons-secction{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.icons-secction img{
+    width: 20px;
+    cursor: pointer;
+}
+
+
+
